@@ -1,4 +1,4 @@
-### Hi I'm Austin 🖖
+## Hi I'm Austin 🖖
 
 Front-End Developer by day, chronic imposter syndrome by night.
 
@@ -9,11 +9,11 @@ Want to find out more? [View Portfolio](https://austinchiatto.com)
 
 ---
 
-### Languages and Tools:
+## Languages and Tools:
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AustinChiatto&layout=compact&theme=dark#gh-dark-mode-only)](https://github.com/AustinChiatto/github-readme-stats)
 
-#### Frontend
+### Frontend
 <p>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" title="Html" width="40" height="40"/> &nbsp;
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" title="Css" width="40" height="40"/> &nbsp;
@@ -29,26 +29,26 @@ Want to find out more? [View Portfolio](https://austinchiatto.com)
 <!--     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" title="TypeScript" width="40" height="40"/> &nbsp;/> -->
 </p>
 
-#### Serverside
+### Serverside
 <p>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" title="Php" width="40" height="40"/> &nbsp;
 <!--     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" title="Expressjs" width="40" height="40"/> &nbsp; -->
 </p>
 
-#### Database
+### Database
 <p>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" title="Mysql" width="40" height="40"/> &nbsp;
 <!--     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain-wordmark.svg" title="Firebase" width="40" height="40"/> &nbsp; -->
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-plain-wordmark.svg" title="MongoDB" width="40" height="40"/> 
 </p>
 
-#### Design
+### Design
 <p>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" title="Figma" width="40" height="40"/> &nbsp;
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-plain.svg" title="Illustrator" width="40" height="40" />
 </p>
 
-#### Other
+### Other
 <p>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" title="Unity" width="40" height="40"/> &nbsp;
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberrypi/raspberrypi-original.svg" title="RaspberryPi" width="40" height="40"/> &nbsp;
