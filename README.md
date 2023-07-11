@@ -25,7 +25,7 @@ Want to find out more? [View Portfolio](https://austinchiatto.com)
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" title="Bootstrap" width="40" height="40"/> &nbsp;
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" title="Nodejs" width="40" height="40"/> &nbsp;
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" title="MP<" width="40" height="40"/> &nbsp;
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/threejs/threejs-original.svg" title="ThreeJS" width="40" height="40"/> &nbsp;/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/threejs/threejs-original.svg" title="ThreeJS" width="40" height="40"/> &nbsp;
 <!--     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" title="TypeScript" width="40" height="40"/> &nbsp;/> -->
 </p>
 
