@@ -1,8 +1,7 @@
-## Hi I'm Austin 🖖
+## Hey 👋
+I'm Austin, a frontend JavaScript developer who loves using code, animation, and interactivity to solve problems.
 
-Front-End Developer by day, chronic imposter syndrome by night.
-
-Want to find out more? [View Portfolio](https://austinchiatto.com)
+Want to find out more? [Checkout my portfolio.](https://austinchiatto.com)
 
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=1e1e1e)](https://www.linkedin.com/in/austin-chiatto/)
 [![CodePen Badge](https://img.shields.io/badge/CodePen-Profile-informational?style=flat&logo=codepen&logoColor=white&color=1e1e1e)](https://codepen.io/austinchiatto)
