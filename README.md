@@ -1,7 +1,17 @@
 [Portfolio](https://austinchiatto.com) • [LinkedIn](https://www.linkedin.com/in/austin-chiatto/)
 
-Hi, I'm Austin! 👋
+🤖 Beep Boop Boop Beep 🤖
 
-I'm a full-stack developer living on the (rainy) west coast of Canada.
+I build full-stack tools to solve problems, daydream of finding the perfect notes app, and try every day to give more than I take.
 
-Recently, I've been working with Next.js and the React eco-system to build projects such as [Market Maestro](https://marketmaestro.ca) and [Portfolio-v2](https://austinchiatto.com).
+Currently, I work as a front-end developer building websites at [Forge and Smith](https://forgeandsmith.com/). Previously at [Dovetail Digital](https://www.dovetaildigital.ca/).
+
+---
+
+[Apogee](https://apogee-spaceflight-tracker.vercel.app/) - Live rocket launch tracking
+
+[Markintosh]() - Add Markdown syntax formatting to Apple Notes
+
+[HexOpacity](https://hex-opacity.austinchiatto.com/) - Add opacity to Hex color codes
+
+[Scallion for OnionOS](https://github.com/OnionUI/Themes/pull/42) - Retro emulator OS themes
