@@ -1,7 +1,5 @@
 [Portfolio](https://austinchiatto.com) • [LinkedIn](https://www.linkedin.com/in/austin-chiatto/)
 
-🤖 Beep Boop Boop Beep 🤖
-
 I build full-stack tools to solve problems, daydream of finding the perfect notes app, and try every day to give more than I take.
 
 Currently, I work as a front-end developer building websites at [Forge and Smith](https://forgeandsmith.com/). Previously at [Dovetail Digital](https://www.dovetaildigital.ca/).
