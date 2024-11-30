@@ -8,7 +8,7 @@ Currently, I work as a front-end developer building websites at [Forge and Smith
 
 [Apogee](https://apogee-spaceflight-tracker.vercel.app/) - Live rocket launch tracking
 
-[Markintosh]() - Add Markdown syntax formatting to Apple Notes
+[Markintosh](https://markintosh-for-mac.vercel.app/) - Add Markdown syntax formatting to Apple Notes
 
 [HexOpacity](https://hex-opacity.austinchiatto.com/) - Add opacity to Hex color codes
 
